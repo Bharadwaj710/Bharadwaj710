@@ -1,10 +1,10 @@
-<svg width="900" height="860" viewBox="0 0 900 860" xmlns="http://www.w3.org/2000/svg" style="background-color: #0D0D0D; font-family: 'Inter', 'Roboto', 'Segoe UI', sans-serif;">
+<svg width="900" height="700" viewBox="0 0 900 700" xmlns="http://www.w3.org/2000/svg" style="background-color: #0D0D0D; font-family: 'Inter', 'Roboto', 'Segoe UI', sans-serif;">
   
   <!-- Subtle Grid Background -->
   <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
     <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#1A1A1A" stroke-width="1"/>
   </pattern>
-  <rect width="900" height="860" fill="url(#grid)" />
+  <rect width="900" height="700" fill="url(#grid)" />
 
   <!-- Header -->
   <text x="30" y="40" fill="#4A5D23" font-size="14" font-weight="bold" letter-spacing="1">TECH STACK</text>
