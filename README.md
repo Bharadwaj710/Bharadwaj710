@@ -45,14 +45,13 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="28" style="vertical-align: middle;" /> GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bharadwaj710&show_icons=true&theme=tokyonight&hide_border=true" alt="Bharadwaj's GitHub Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=Bharadwaj710&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bharadwaj710&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+<p align="center"> <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bharadwaj710&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img width="48%" src="https://streak-stats.demolab.com/?user=bharadwaj710&theme=tokyonight&hide_border=true" />
+
 </p>
 
+<p align="center"> <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=bharadwaj710&theme=tokyo-night&hide_border=true" /> </p>
 ---
 
 <div align="center">
