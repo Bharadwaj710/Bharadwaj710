@@ -46,13 +46,8 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="28" style="vertical-align: middle;" /> GitHub Statistics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=bharadwaj710&show_icons=true&theme=tokyonight&hide_border=true" />
 
   <img width="48%" src="https://streak-stats.demolab.com/?user=bharadwaj710&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=bharadwaj710&theme=tokyo-night&hide_border=true" />
 </p>
 ---
 
